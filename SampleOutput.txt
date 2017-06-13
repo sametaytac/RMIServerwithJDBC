@@ -1,0 +1,59 @@
+
+Extension : .bmp   , TRUE  , Mime Type : image/bmp                 , Result : image/bmp                
+Extension : .xls   , TRUE  , Mime Type : application/excel         , Result : application/excel        
+Extension : .bin   , TRUE  , Mime Type : application/octet-stream  , Result : application/octet-stream 
+Extension : .ppt   , TRUE  , Mime Type : application/mspowerpoint  , Result : application/mspowerpoint 
+Extension : .mp3   , TRUE  , Mime Type : audio/mpeg3               , Result : audio/mpeg3              
+Extension : .txt   , TRUE  , Mime Type : text/plain                , Result : text/plain               
+Extension : .doc   , TRUE  , Mime Type : application/msword        , Result : application/msword       
+Extension : .tiff  , TRUE  , Mime Type : image/tiff                , Result : image/tiff               
+Extension : .html  , TRUE  , Mime Type : text/html                 , Result : text/html                
+Extension : .gz    , TRUE  , Mime Type : application/x-gzip        , Result : application/x-gzip       
+Extension : .tar   , TRUE  , Mime Type : application/x-tar         , Result : application/x-tar        
+Extension : .cpp   , TRUE  , Mime Type : text/x-c                  , Result : text/x-c                 
+Extension : .htm   , TRUE  , Mime Type : text/html                 , Result : text/html                
+Extension : .jpg   , TRUE  , Mime Type : image/jpeg                , Result : image/jpeg               
+Extension : .text  , TRUE  , Mime Type : text/plain                , Result : text/plain               
+Extension : .zip   , TRUE  , Mime Type : application/zip           , Result : application/zip          
+Extension : .wav   , TRUE  , Mime Type : audio/wav                 , Result : audio/wav                
+Extension : .java  , TRUE  , Mime Type : text/plain                , Result : text/plain               
+Extension : .jpeg  , TRUE  , Mime Type : image/jpeg                , Result : image/jpeg               
+Extension : .class , TRUE  , Mime Type : application/java          , Result : application/java         
+Extension : .tex   , TRUE  , Mime Type : application/x-tex         , Result : application/x-tex        
+Extension : .tgz   , TRUE  , Mime Type : application/x-compressed  , Result : application/x-compressed 
+Extension : .avi   , TRUE  , Mime Type : video/avi                 , Result : video/avi                
+Extension : .gzip  , TRUE  , Mime Type : application/x-gzip        , Result : application/x-gzip       
+Extension : .ico   , TRUE  , Mime Type : image/x-icon              , Result : image/x-icon             
+Extension : .exe   , TRUE  , Mime Type : application/octet-stream  , Result : application/octet-stream 
+Extension : .c     , TRUE  , Mime Type : text/plain                , Result : text/plain               
+Extension : .tif   , TRUE  , Mime Type : image/tiff                , Result : image/tiff               
+Extension : .js    , TRUE  , Mime Type : text/javascript           , Result : text/javascript          
+Extension : .h     , TRUE  , Mime Type : text/plain                , Result : text/plain               
+Extension : .latex , TRUE  , Mime Type : application/x-latex       , Result : application/x-latex      
+Extension : .xml   , TRUE  , Mime Type : text/xml                  , Result : text/xml                 
+
+Status Code : 400 , TRUE  , Reason : Bad Request            , Result : Bad Request           
+Status Code : 403 , TRUE  , Reason : Forbidden              , Result : Forbidden             
+Status Code : 404 , TRUE  , Reason : Not Found              , Result : Not Found             
+Status Code : 500 , TRUE  , Reason : Internal Server Error  , Result : Internal Server Error 
+Status Code : 501 , TRUE  , Reason : Not Implemented        , Result : Not Implemented       
+Status Code : 200 , TRUE  , Reason : OK                     , Result : OK                    
+
+Page : Ceng443.html         , TRUE 
+Page : About.html           , TRUE 
+Page : NonExistent1.html    , TRUE 
+Page : NonExistent2.html    , TRUE 
+
+Page : Ceng443.html         , TRUE  , Count before : 15 , Count after : 16
+Page : About.html           , TRUE  , Count before : 15 , Count after : 16
+
+Category : Electronics     , Next ad : Electronics/Vaio.html         
+Category : Electronics     , Next ad : Electronics/Arduino.html      
+Category : Electronics     , Next ad : Electronics/Vaio.html         
+Category : Electronics     , Next ad : Electronics/Arduino.html      
+Category : Electronics     , Next ad : Electronics/Vaio.html         
+Category : Sports          , Next ad : Sports/Nike.html              
+Category : Sports          , Next ad : Sports/Adidas.html            
+Category : Sports          , Next ad : Sports/Nike.html              
+Category : Sports          , Next ad : Sports/Adidas.html            
+Category : Sports          , Next ad : Sports/Nike.html              
